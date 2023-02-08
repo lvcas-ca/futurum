@@ -1,0 +1,11 @@
+{
+    "card": {
+      "title": "Producto X",
+      "image": "https://tu-servidor.com/producto-x.jpg",
+      "price": "$50.00",
+      "button": {
+        "text": "Comprar ahora",
+        "link": "https://tu-tienda-en-línea.com/producto-x"
+      }
+    }
+  }
