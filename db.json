@@ -1,11 +1,55 @@
-{
-    "card": {
-      "title": "Producto X",
-      "image": "https://tu-servidor.com/producto-x.jpg",
-      "price": "$50.00",
-      "button": {
-        "text": "Comprar ahora",
-        "link": "https://tu-tienda-en-línea.com/producto-x"
-      }
-    }
-  }
+[  
+    {    
+        "link_imagen": "https://curso1.com/imagen.jpg",    
+        "titulo": "Curso de Programación Básica",    
+        "profesor": "Juan Pérez",    
+        "descripcion": "Aprende los conceptos básicos de la programación y cómo utilizarlos para crear tus propios programas.",    
+        "estrellas": 4,    
+        "alumnos": 150,   
+        "precio_descuento": 10,    
+        "precio_normal": 20  }, 
+    
+    {   
+        
+        "link_imagen": "https://curso2.com/imagen.jpg",    
+         "titulo": "Curso de Diseño Gráfico",    
+         "profesor": "María Rodríguez",    
+         "descripcion": "Conviértete en un experto en diseño gráfico y aprende a utilizar herramientas como Adobe Photoshop y Illustrator.",    
+         "estrellas": 5,    
+         "alumnos": 200,    
+         "precio_descuento": 15,    
+         "precio_normal": 25  },  
+    
+    {   
+        
+        "link_imagen": "https://curso3.com/imagen.jpg",    
+         "titulo": "Curso de Marketing Digital",    
+         "profesor": "Pedro García",    
+         "descripcion": "Aprende a promocionar tu negocio en línea y a llegar a más clientes potenciales a través de técnicas de marketing digital.",    
+         "estrellas": 4.5,    
+         "alumnos": 175,    
+         "precio_descuento": 20,    
+         "precio_normal": 30  },  
+    
+    {    
+        
+         "link_imagen": "https://curso4.com/imagen.jpg",    
+         "titulo": "Curso de Desarrollo Web",    
+         "profesor": "Laura López",   
+         "descripcion": "Aprende a crear sitios web desde cero utilizando lenguajes de programación como HTML, CSS y JavaScript.",   
+         "estrellas": 4.8,   
+         "alumnos": 190,    
+         "precio_descuento": 25,    
+         "precio_normal": 35  }, 
+    
+    {    
+        
+         "link_imagen": "https://curso5.com/imagen.jpg",    
+         "titulo": "Curso de Fotografía",    "profesor": "José Martínez",    
+         "descripcion": "Aprende a capturar imágenes hermosas y a editarlas con técnicas profesionales de fotografía.",    
+         "estrellas": 4.9,    
+         "alumnos": 160,    
+         "precio_descuento": 15,   
+         "precio_normal": 20  
+    }]
+
